@@ -37,6 +37,7 @@ API_KEY = " "
 3.
 
 
+<img width="564" height="139" alt="image" src="https://github.com/user-attachments/assets/66f8257d-7b27-4eaf-975e-d6c4c7f95ab0" />
 
 
 manga 폴더 안에 원본 일본어 만화를 넣는다.
@@ -53,10 +54,13 @@ all loop v3를 실행한다.
 
 가장 처음 동작은 script 폴더 안에 스크립트를 생성하는 것이다. 3 pro 를 통해 manga 폴더 안의 이미지를 보고 AI가 판단하도록 되어 있다. 다만 코드 내의 프롬프트 규칙에 따라서.
 
+<img width="520" height="172" alt="image" src="https://github.com/user-attachments/assets/d1860bde-c432-4f6f-8a3e-ef37d89cbc3e" />
 
 스크립트는 이미지 생성시에 가이드라인으로서 들어간다.
 
+<img width="827" height="148" alt="image" src="https://github.com/user-attachments/assets/b6ef7dde-be41-406e-bf46-ccae2039a01a" />
 
+<img width="816" height="243" alt="image" src="https://github.com/user-attachments/assets/08c50bc0-0a54-4d36-ac18-d5dad420869e" />
 
 
 
@@ -78,6 +82,7 @@ all loop v3를 실행한다.
 
 그 후 위 스크립트를 가지고 이미지 생성 모델이 실제 번역 결과 이미지를 출력한다.
 
+<img width="473" height="92" alt="image" src="https://github.com/user-attachments/assets/e06dff07-3e47-4ea5-8fe5-e2fb74b0d0a0" />
 
 
 
@@ -87,6 +92,7 @@ all loop v3를 실행한다.
 
 Eval 모델은 생성된 이미지와 원본 이미지를 둘 다 불러오고, 이를 비교하는 것을 통해
 
+<img width="470" height="117" alt="image" src="https://github.com/user-attachments/assets/433e9800-e196-40ad-988b-8bab66bc7d57" />
 
 
 
@@ -98,6 +104,7 @@ Eval 모델은 생성된 이미지와 원본 이미지를 둘 다 불러오고, 
 
 
 
+<img width="851" height="103" alt="image" src="https://github.com/user-attachments/assets/76444a91-3fac-4dc2-b27f-268712c88cff" />
 
 
 

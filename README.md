@@ -144,10 +144,14 @@ eval_log.tsv 의 결과 또한 out 폴더 내에 저장되어서 추후 불러�
 
 
 
-MAX_ITERATIONS = 5  # Max refinement rounds (out2..out{MAX+1})
+MAX_ITERATIONS = 5 
+
 BATCH_SIZE = 1000  # 한번에 배치로 보낼 작업 페이지의 수량. 
+
 POLL_INTERVAL_SEC = 30  # 배치로 보낸 후 결과물을 받으러 찾아가야 하는데 그 주기 (sec)
+
 MAX_STAGE_RETRIES = 10  # 이미지생성 모델의 문제 등으로 인해 out 폴더 결과물 이미지 누락시 재시도 횟수
+
 MAX_EVAL_RETRIES = 5  # 평가모델 실패시 재시도 횟수
 
 

@@ -6,6 +6,8 @@ https://y-y-y-y.tistory.com/
 
 설명은 v3으로 되어 있지만 최신 버전 업데이트가 릴리즈에 있으니 참고하세요
 
+https://github.com/heelee912/NANOBArnANgA/releases # 릴리즈 페이지
+
 
 1.
 

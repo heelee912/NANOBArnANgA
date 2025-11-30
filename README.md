@@ -1,7 +1,6 @@
 <img width="375" height="600" alt="image" src="https://github.com/user-attachments/assets/bf8e9cde-0e2f-4810-863a-e65897b2d5ef" /><img width="408" height="656" alt="image" src="https://github.com/user-attachments/assets/05ce5c58-47da-4796-bf48-2549de4ee10c" />
 
-https://y-y-y-y.tistory.com/
-이전 프로젝트들과 AIS 사용량 확인 등 주의사항이 있는 곳
+https://y-y-y-y.tistory.com/ # 이전 프로젝트들과 AIS 사용량 확인 등 주의사항이 있는 곳
 
 
 설명은 v3으로 되어 있지만 최신 버전 업데이트가 릴리즈에 있으니 참고하세요

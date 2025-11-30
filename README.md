@@ -183,7 +183,7 @@ select_best_outputs.py 는 (out1 부터 out 10까지 예를 들어 만들었다�
 ---
 
 
-어느정도 단계가 명확하게 나뉘어 있으므로 중간 점검과 수정 작업이 용이할 것으로 생각됩니다.
+어느정도 단계가 명확하게 나뉘어 있으므로 중간 점검과 수정 작업 또한 용이할 것으로 생각됩니다.
 
 https://github.com/heelee912/NANOBArnANgA/issues # 이슈 열기 페이지입니다.
 

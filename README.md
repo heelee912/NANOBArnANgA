@@ -2,8 +2,7 @@
 <img width="816" height="1312" alt="image" src="https://github.com/user-attachments/assets/05ce5c58-47da-4796-bf48-2549de4ee10c" />
 
 https://y-y-y-y.tistory.com/
-
-V3 이전 프로젝트들
+이전 프로젝트들과 AIS 사용량 확인 등 주의사항이 있는 곳
 
 1.
 

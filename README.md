@@ -187,4 +187,5 @@ select_best_outputs.py 는 (out1 부터 out 10까지 예를 들어 만들었다�
 
 https://github.com/heelee912/NANOBArnANgA/issues # 이슈 열기 페이지입니다.
 
-(만약 가능하면 후원도... 헤헤)
+이 프로젝트가 마음에 드셨다면  
+[GitHub Sponsors](https://github.com/sponsors/heelee912)로 살짝 응원해 주셔도 정말 큰 힘이 됩니다 헤헤 😊

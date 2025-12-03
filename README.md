@@ -12,6 +12,10 @@ https://y-y-y-y.tistory.com/ # 이전 프로젝트들과 AIS 사용량 확인 �
 https://github.com/heelee912/NANOBArnANgA/releases # 릴리즈 페이지
 
 
+![Generated Image December 04, 2025 - 1_52AM](https://github.com/user-attachments/assets/bf2dd9da-9f21-4c75-80e5-85ca0b8432f5)
+도식화된 all loop 에 대한 전체 플로우
+
+
 1.
 
 

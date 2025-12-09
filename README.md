@@ -2,7 +2,9 @@
 
 
 
-From the v7.2 release, translation output for English and Chinese users is supported.
+<img width="375" height="600" alt="image" src = https://github.com/user-attachments/assets/7689074c-a837-4ce8-a13c-53676189a1c0><img img width="408" height="656" alt="image" src = https://github.com/user-attachments/assets/87577fa4-f64a-476c-9469-e7fb19f6eb17>
+
+Starting with the v7 release, we plan to begin supporting English and Chinese users. (A prototype has been developed and is currently under review.)
 
 
 

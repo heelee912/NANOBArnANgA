@@ -21,7 +21,9 @@ https://y-y-y-y.tistory.com/ # 这里可以查看以往项目，以及 AIS 使�
 https://github.com/heelee912/NANOBArnANgA/releases # Releases 页面
 
 
-![Generated Image December 04, 2025 - 1_52AM](https://github.com/user-attachments/assets/bf2dd9da-9f21-4c75-80e5-85ca0b8432f5)
+
+![Generated Image December 10, 2025 - 12_43AM](https://github.com/user-attachments/assets/4dc0ce6d-ad6f-499a-93d9-bf6a08e0f505)
+
 all loop 的整体流程示意图
 
 

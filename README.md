@@ -1,10 +1,9 @@
 <img width="375" height="600" alt="image" src="https://github.com/user-attachments/assets/bf8e9cde-0e2f-4810-863a-e65897b2d5ef" /><img width="408" height="656" alt="image" src="https://github.com/user-attachments/assets/05ce5c58-47da-4796-bf48-2549de4ee10c" />
-
+v3
 <img width="375" height="600" alt="image" src = https://github.com/user-attachments/assets/1a323c7d-63d7-4450-8274-97b5c57254ca><img img width="408" height="656" alt="image" src = https://github.com/user-attachments/assets/f834a83c-eeb2-4bf5-843e-f394e982fda7>
-
+v5
 <img width="375" height="600" alt="image" src = https://github.com/user-attachments/assets/7689074c-a837-4ce8-a13c-53676189a1c0><img img width="408" height="656" alt="image" src = https://github.com/user-attachments/assets/87577fa4-f64a-476c-9469-e7fb19f6eb17>
-
-v7 릴리즈부터 번역 영어 및 중국어 사용자 지원을 시작할 예정입니다. (현재 프로토타입이 제작되었으며 검토 단계에 있어 미공개)
+v7 릴리즈부터 번역 영어 및 중국어 사용자 지원을 시작할 예정입니다. (현재 프로토타입이 제작되었으며 검토 단계)
 
 
 https://y-y-y-y.tistory.com/ # 이전 프로젝트들과 AIS 사용량 확인 등 주의사항이 있는 곳

@@ -6,7 +6,8 @@
 
 v7.2 릴리즈부터 번역 영어 및 중국어 사용자 지원을 시작했습니다.
 
-</br>
+
+
 
 
 https://y-y-y-y.tistory.com/ # 이전 프로젝트들과 AIS 사용량 확인 등 주의사항이 있는 곳
@@ -160,18 +161,23 @@ eval_log.tsv 의 결과 또한 out 폴더 내에 저장되어서 파이썬이 �
 
 
 
-MAX_ITERATIONS = 5 # out1 이후 얼마나 더 반복할 것인지 (5면 out6까지 생성)
+IMAGE_RESOLUTION = "1K"      # "1K", "2K", "4K" 중 선택
 
-BATCH_SIZE = 1000  # 한번에 배치로 보낼 작업 페이지의 수량. 
+MAX_ITERATIONS = 9                         # Max refinement rounds (out2..out{MAX+1})
 
-POLL_INTERVAL_SEC = 30  # 배치로 보낸 후 결과물을 받으러 찾아가야 하는데 그 주기 (sec)
+BATCH_SIZE = 2                             # Batch size for script/image/eval jobs. 한번에 최대 100개의 배치를 보낼 수 있을 것이므로 작은 값이어도 괜찮음.
 
-MAX_STAGE_RETRIES = 10  # 이미지생성 모델의 문제 등으로 인해 out 폴더 결과물 이미지 누락시 재시도 횟수
+POLL_INTERVAL_SEC = 30                     # Poll interval for batch jobs (sec)
 
-MAX_EVAL_RETRIES = 5  # 평가모델 실패시 재시도 횟수
+MAX_STAGE_RETRIES = 100                    # Max retries per stage (Stage 1 or each iteration). 다음 단계로 넘어가기 전 검토 후 재생성
 
-MAX_SCRIPT_RETRIES = 10 # v4부터 추가된 스크립트모델 실패시 재시도 횟수 
+MAX_EVAL_RETRIES = 10                      # Max retries for evaluation batches. 한 번 실패 시 재시도
 
+MAX_SCRIPT_RETRIES = 10                    # Max retries when script text is empty. 한 번 실패 시 재시도
+
+TARGET_LANG_EN = "Korean"      # 예: "Korean", "English", "Chinese"
+
+TARGET_LANG_NATIVE = "한국어"   # 예: "한국어", "English", "中文"
 
 
 
@@ -192,6 +198,8 @@ select_best_outputs.py 는 (out1 부터 out 10까지 예를 들어 만들었다�
 
 오랜 시간이 걸려 만들어진 이것도 맘에 안든다면 다른 폴더를 뒤져보거나(사실 select를 실행해서 나온 manga out 선별이 완전한 게 아니라 선별되지 않은 다른 out 폴더 내 이미지가 사람이 판단하기에 더 나은 결과물일 수도 있습니다.)
 횟수를 늘려보거나, 4번의 수동 스크립트 조작을 할 필요가 있습니다.
+
+v2 버전부터 로그를 별도로 저장해줍니다.
 
 
 ---

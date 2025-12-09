@@ -2,12 +2,16 @@
 
 <img width="375" height="600" alt="image" src = https://github.com/user-attachments/assets/1a323c7d-63d7-4450-8274-97b5c57254ca><img img width="408" height="656" alt="image" src = https://github.com/user-attachments/assets/f834a83c-eeb2-4bf5-843e-f394e982fda7>
 
+<img width="375" height="600" alt="image" src = https://github.com/user-attachments/assets/7689074c-a837-4ce8-a13c-53676189a1c0><img img width="408" height="656" alt="image" src = https://github.com/user-attachments/assets/87577fa4-f64a-476c-9469-e7fb19f6eb17>
 
 
 https://y-y-y-y.tistory.com/ # 이전 프로젝트들과 AIS 사용량 확인 등 주의사항이 있는 곳
 
 
-설명은 v3으로 되어 있지만 최신 버전 업데이트가 릴리즈에 있으니 참고하세요
+
+설명은 v3으로 되어 있지만 최신 버전 업데이트가 릴리즈에 있으니 참고하세요.
+
+v7.2 릴리즈부터 번역 영어 및 중국어 사용자 지원을 시작했습니다.
 
 https://github.com/heelee912/NANOBArnANgA/releases # 릴리즈 페이지
 

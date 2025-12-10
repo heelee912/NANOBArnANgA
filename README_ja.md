@@ -21,7 +21,7 @@ https://y-y-y-y.tistory.com/ # 過去プロジェクトや AIS 使用量の確�
 https://github.com/heelee912/NANOBArnANgA/releases # Releases ページ
 
 
-![Generated Image December 04, 2025 - 1_52AM](https://github.com/user-attachments/assets/bf2dd9da-9f21-4c75-80e5-85ca0b8432f5)
+![Generated Image December 10, 2025 - 1_30PM](https://github.com/user-attachments/assets/ad7cb9d6-2255-4a56-8744-ebba7b52a2cc)
 all loop 全体フローの概略図です。
 
 

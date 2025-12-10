@@ -19,7 +19,9 @@ The explanation below assumes v3, but the latest updates are always listed on th
 https://github.com/heelee912/NANOBArnANgA/releases # Releases page
 
 
-![Generated Image December 04, 2025 - 1_52AM](https://github.com/user-attachments/assets/bf2dd9da-9f21-4c75-80e5-85ca0b8432f5)
+
+![Generated Image December 10, 2025 - 1_19PM](https://github.com/user-attachments/assets/6479b662-6911-4553-b234-bc8a3613f0dc)
+
 Diagram of the overall all loop flow
 
 

@@ -10,7 +10,11 @@ v5
 
 v7
 
-v7版本发布起将开始支持英语及中文用户。（当前原型已制作完成，正处于审核阶段）
+<img width="492" height="64" alt="image" src="https://github.com/user-attachments/assets/91b23351-cc77-44bc-81b7-5b3ea98de291" />
+
+
+现已发布 v7（v7.2），支持将翻译输出目标语言扩展为多种语言。
+
 
 https://y-y-y-y.tistory.com/ # 这里可以查看以往项目，以及 AIS 使用量检查等注意事项
 

@@ -10,7 +10,10 @@ v5
 
 v7
 
-v7リリースから英語および中国語ユーザーサポートを開始する予定です。（現在プロトタイプが作成され、検討段階にあります）
+<img width="492" height="64" alt="image" src="https://github.com/user-attachments/assets/aaeeb0e7-3ccd-4331-b427-b4c184e7b62a" />
+
+翻訳の出力先言語を多言語でサポートする v7（v7.2）を公開しました。
+
 
 https://y-y-y-y.tistory.com/ # 過去プロジェクトや AIS 使用量の確認など、注意事項が載っているページです。
 

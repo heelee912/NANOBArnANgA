@@ -4,10 +4,10 @@
 
 <img width="375" height="600" alt="image" src = https://github.com/user-attachments/assets/7689074c-a837-4ce8-a13c-53676189a1c0><img img width="408" height="656" alt="image" src = https://github.com/user-attachments/assets/87577fa4-f64a-476c-9469-e7fb19f6eb17>
 
-v7 (prototype)
+v7
+<img width="492" height="64" alt="image" src="https://github.com/user-attachments/assets/6a6621bd-22cf-4d9f-84d5-dde0c4ca4f5e" />
 
-Starting with the v7 release, I plan to begin supporting English and Chinese users. (A prototype has been developed and is currently under review.)
-
+v7 (v7.2), which now supports multiple target languages for translation output, has been released.
 
 
 https://y-y-y-y.tistory.com/ # Page with previous projects and notes such as checking AIS usage and other cautions
